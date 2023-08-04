@@ -38,7 +38,7 @@ The user must provide their Google Sheets document ID and the necessary OAuth 2.
 
 https://developers.google.com/workspace/guides/get-started 
 
-## Requirements
+## Setup
 
 This application requires Python 3.6 or higher. All required libraries can be installed using next command:
 
